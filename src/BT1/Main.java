@@ -17,8 +17,8 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         context ct=new context();
-        System.out.println(ct.Tinh1(75, 12));
-        System.out.println(ct.Tinh2(54, 78));
+        System.out.println(ct.Tinh1(0, 0));
+        System.out.println(ct.Tinh2(0, 0));
     }
     
 }
