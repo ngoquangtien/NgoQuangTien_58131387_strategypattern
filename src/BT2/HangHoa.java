@@ -46,5 +46,9 @@ public class HangHoa {
     public void setMoTa(String moTa) {
         this.moTa = moTa;
     }
-    
+    public void thongTinHangHoa(){
+        System.out.print("Ten Hang Hoa: "+ tenHH);
+        System.out.print("__Gia Hang Hoa: "+ gia);
+        System.out.print("__Mo Ta: " + moTa);
+    }
 }
